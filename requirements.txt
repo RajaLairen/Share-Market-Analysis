@@ -1,0 +1,4 @@
+mplcyberpunk==0.7.1
+pmdarima==2.0.4
+numpy
+scikit-learn
